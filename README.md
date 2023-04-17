@@ -4,7 +4,7 @@ Reading Journey for Code Fellows
 
 ## Lab-01b-Learning Markdown
 
-### **Rocio-Martinez: Growth Mindset**
+### **Rocio Martinez: Growth Mindset**
 
 What sticks out to me when thinking of a **growth mindset** is 
 *effort, positivity,* and *resources*!
