@@ -23,7 +23,7 @@ Markdown syntax indicates which words/phrases should look different through use 
 
 There are different text editor apps or markdown apps.
 
-##Why use Markdown?
+## Why use Markdown?
 
 Markdown can be used for **EVERYTHING** (not just documents)
 
@@ -45,3 +45,8 @@ Markdown is everywhere! You gotta use it because everyone else is.
 6. When making text bold or italicized for emphasis, it is best practice to use which symbol?
 7. How do you create a link with Markdown?
 8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+
+## Responses
+
+1. Markdown is a language used to make 'writing' code a little more simplified
+2. 
