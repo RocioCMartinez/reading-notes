@@ -1,5 +1,5 @@
 # reading-notes
-Reading Journey for Code Fellows
+Reading Journal for Code Fellows
 
 
 ## Lab-01b-Learning Markdown
