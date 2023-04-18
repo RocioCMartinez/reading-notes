@@ -2,7 +2,7 @@
 
 ## What is Markdown?
 
-A ligtweight markup language. It is designed to be more user friendly.
+A lightweight markup language. It is designed to be more user friendly.
 
 Adds formatting elements to plain text.
 
@@ -12,7 +12,7 @@ Overall Markdown is used to simplify code.
 
 ## WYSIWYG (What you see is what you get)
 
-Editting Software: allows users to create documents that appear very similarly in both creation/finished products.
+Editing Software: allows users to create documents that appear very similarly in both creation/finished products.
 
 Ability to directly manipulate the layout of a document without typing/remembering names of layout commands.
 Example: Microsoft Word.
