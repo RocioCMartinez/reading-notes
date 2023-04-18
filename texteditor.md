@@ -69,13 +69,23 @@ Can display a lot of information
 ## Most Important
 
 pwd
-Print Working Directory -current location
+Print Working Directory - gives current location
 
 ls
 List the contents of a directory.
 
 cd
-Change Directories 
+Change Directories - Allows you to move into a new file
+
+mkdir
+Makes a directory or folder
+
+Touch
+Adds file
+
+In the scenario we are moving into the projects folder and making a new directory or file. We identify the type of file and link. We move back 2 'steps'. We list items in the projects/new-project folder.
+
+
 
 
 
