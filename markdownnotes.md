@@ -54,4 +54,5 @@ Markdown is everywhere! You gotta use it because everyone else is.
 4. The largest heading only requires one symbol before the title
 5. The smallest heading will use a total of six symbols before the title
 6. It is recommended to use * symbols to italicize or bold text (One: italicize, Two: bold, Three: enables both functions at once)
-7. 
+7. A link is created using first the ! symbol, a title in [], followed by the url in ()
+8. Three symbols used to create an unordered list are: -,*, +
