@@ -49,4 +49,9 @@ Markdown is everywhere! You gotta use it because everyone else is.
 ## Responses
 
 1. Markdown is a language used to make 'writing' code a little more simplified
-2. 
+2. We use Markdown because it is universally accepted/understood
+3. The # symbol will create a heading
+4. The largest heading only requires one symbol before the title
+5. The smallest heading will use a total of six symbols before the title
+6. It is recommended to use * symbols to italicize or bold text (One: italicize, Two: bold, Three: enables both functions at once)
+7. 
