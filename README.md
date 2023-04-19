@@ -1,5 +1,22 @@
 # reading-notes
+
 Reading Journal for Code Fellows
+
+## Table of Contents
+
+### 102-notes
+
+- [Class1 Notes](102-notes/markdownnotes.md)
+
+- [Class2 Notes](102-notes/gitnotes/texteditor.md)
+
+- [Class3 Notes](102-notes/gitnotes.md)
+
+- [Class4 Notes](102-notes/git-github.md)
+
+### 201-notes
+
+
 
 
 ## Lab-01b-Learning Markdown
