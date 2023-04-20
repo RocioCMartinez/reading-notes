@@ -70,7 +70,8 @@ It is the constant work we put in when trying to reach a state of  understanding
 2. Positivity: At the end of the day, I ***will*** go to bed. No need to take frustrations everywhere you go.
 3. Resources: I will always have Google. Use what was provided as it has a purpose.
 
-![growth plant.](https://github.com/RocioCMartinez/reading-notes/blob/main/plants.png?raw=true)
+<img src="https://media.istockphoto.com/id/168626617/photo/three-flower-pots-representing-three-stages-of-growth.jpg?s=2048x2048&w=is&k=20&c=K611vbCtKE6iG5KVpbYZr8OMl__WOckRxkNjpVbaG70=" />
+
 
 ### Introduction
 
