@@ -12,9 +12,13 @@ CSS helps combine what exists in HTML and new Java code to have more creative de
 
 1. CSS is used to help design the appearance of a website. Blends the HTML framework with java could for esthetic design.
 2. 3 ways to insert CSS
- + In-line
- + External (style sheet)
- + Internal
+
+   + In-line
+
+   + External (style sheet)
+
+   + Internal
+
 3. Example; * {
     text-color: red;
 }
