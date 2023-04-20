@@ -75,4 +75,4 @@ It is the constant work we put in when trying to reach a state of  understanding
 
 ### Introduction
 
-My name is Rocio Martinez. I'm from New Mexico and work in the biomedical field. I live in Georgia as a military spouse but served time as well. I am excited to expand my knowledge and be able to add more qualities to my resume. Get to know me on GitHub with the link below.
+My name is Rocio Martinez. I'm from New Mexico and work in the biomedical field. I live in Georgia as a military spouse but served time as well. I am excited to expand my knowledge and be able to add more qualities to my resume. 
