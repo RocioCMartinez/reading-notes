@@ -14,12 +14,49 @@ Reading Journal for Code Fellows
 
 - [Class4 Notes](102-notes/git-github.md)
 
+- [Class5 Notes](102-notes/class5.md)
+
+- [Class6 Notes](102-notes/class6.md)
+
+- [Class7 Notes](102-notes/class7.md)
+
+- [Class8 Notes](102-notes/class8.md)
+
+
 ### 201-notes
 
+- [Class1 Notes](201-notes/class1.md)
+
+- [Class2 Notes](201-notes/class2.md)
+
+- [Class3 Notes](201-notes/class3.md)
+
+- [Class4 Notes](201-notes/class4.md)
+
+- [Class5 Notes](201-notes/class5.md)
+
+- [Class6 Notes](201-notes/class6.md)
+
+- [Class7 Notes](201-notes/class7.md)
+
+- [Class8 Notes](201-notes/class8.md)
+
+- [Class9 Notes](201-notes/class9.md)
+
+- [Class10 Notes](201-notes/class10.md)
+
+- [Class11 Notes](201-notes/class11.md)
+
+- [Class12 Notes](201-notes/class12.md)
+
+- [Class13 Notes](201-notes/class13.md)
+
+- [Class14 Notes](201-notes/class14.md)
+
+- [Class15 Notes](201-notes/class15.md)
 
 
 
-## Lab-01b-Learning Markdown
 
 ### **Rocio Martinez: Growth Mindset**
 
