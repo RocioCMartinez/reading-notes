@@ -25,7 +25,11 @@ If the variable can change then use let.
 ## Resources
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 https://code-maven.com/introduction-to-javascript
+
 https://code-maven.com/javascript-input-with-prompt-and-confirm
+
 https://www.w3schools.com/js/js_variables.asp
+
 https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
