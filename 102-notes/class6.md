@@ -24,12 +24,12 @@ If the variable can change then use let.
 
 ## Resources
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+<a>https://developer.mozilla.org/en-US/docs/Web/JavaScript</a>
 
-https://code-maven.com/introduction-to-javascript
+<a>https://code-maven.com/introduction-to-javascript</a>
 
-https://code-maven.com/javascript-input-with-prompt-and-confirm
+<a>https://code-maven.com/javascript-input-with-prompt-and-confirm</a>
 
-https://www.w3schools.com/js/js_variables.asp
+<a>https://www.w3schools.com/js/js_variables.asp</a>
 
-https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
+<a>https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-</a>
