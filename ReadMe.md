@@ -1,10 +1,10 @@
-# Home Page
+# Reading Notes
 
 Reading Journal for Code Fellows
 
 ## Table of Contents
 
-### 102-notes
+## Code 102 - Intro to Software Development
 
 - [Class1 Notes](102-notes/markdownnotes.md)
 
@@ -23,7 +23,7 @@ Reading Journal for Code Fellows
 - [Class8 Notes](102-notes/class8.md)
 
 
-### 201-notes
+## Code 201 - Foundations of Software Development
 
 - [Class1 Notes](201-notes/class1.md)
 
@@ -55,22 +55,25 @@ Reading Journal for Code Fellows
 
 - [Class15 Notes](201-notes/class15.md)
 
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
 
 
 
 ### **Rocio Martinez: Growth Mindset**
 
-What sticks out to me when thinking of a **growth mindset** is 
-*effort, positivity,* and *resources*!
+What sticks out to me when thinking of a **growth mindset** is *effort, positivity,* and *resources*!
 It is the constant work we put in when trying to reach a state of  understanding. When applied to a positive outlook it becomes a goal or a dream that we can look forward to achieving. Your surroundings all become a resource. Not only the physical tools but the people around you too. Think of others who are 'thriving' as healthy competition or inspiration. At the end of the day if it has been done before, that means it's not impossible! 
 
 ### 3 Reminders or Self Affirmations
 
 1. Effort: Hard work always pays off! Keep trying.
 2. Positivity: At the end of the day, I ***will*** go to bed. No need to take frustrations everywhere you go.
-3. Resources: I will always have Google. Use what was provided as it has a purpose.
+3. Resources: Use what was provided as it has a purpose.
 
-<img src="https://media.istockphoto.com/id/168626617/photo/three-flower-pots-representing-three-stages-of-growth.jpg?s=2048x2048&w=is&k=20&c=K611vbCtKE6iG5KVpbYZr8OMl__WOckRxkNjpVbaG70=" />
+<img src="https://images.unsplash.com/photo-1633453223757-a968278792cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" />
 
 
 ### Introduction
