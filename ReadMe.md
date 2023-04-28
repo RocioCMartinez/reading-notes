@@ -2,7 +2,6 @@
 
 Reading Journal for Code Fellows. Collection of notes and resources of each class taken.
 
-## Table of Contents
 
 ## Code 102 - Intro to Software Development
 
@@ -62,7 +61,7 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 ### **Introduction**
 
-My name is Rocio Martinez. I'm from New Mexico and work in the biomedical field. I live in Georgia as a military spouse but served time as well. I am excited to expand my knowledge and be able to add more qualities to my resume. 
+My name is Rocio Martinez. I am a veteran and military spouse. My home state is New Mexico but currently reside in Georgia. My work experience is from restaurants and healthcare. I enjoy breaking into different career fields and learning about each one. My hobbies are focused on being healthy. I enjoy working out, dancing, and cooking. 
 
 
 ### Rocio Martinez: Growth Mindset
