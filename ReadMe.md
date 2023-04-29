@@ -5,54 +5,54 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 ## Code 102 - Intro to Software Development
 
-- [Class1 Notes](102-notes/markdownnotes.md)
+- [Class1 Notes](code-102/markdownnotes.md)
 
-- [Class2 Notes](102-notes/gitnotes/texteditor.md)
+- [Class2 Notes](code-102/gitnotes/texteditor.md)
 
-- [Class3 Notes](102-notes/gitnotes.md)
+- [Class3 Notes](code-102/gitnotes.md)
 
-- [Class4 Notes](102-notes/git-github.md)
+- [Class4 Notes](code-102/git-github.md)
 
-- [Class5 Notes](102-notes/class5.md)
+- [Class5 Notes](code-102/class5.md)
 
-- [Class6 Notes](102-notes/class6.md)
+- [Class6 Notes](code-102/class6.md)
 
-- [Class7 Notes](102-notes/class7.md)
+- [Class7 Notes](code-102/class7.md)
 
-- [Class8 Notes](102-notes/class8.md)
+- [Class8 Notes](code-102/class8.md)
 
 
 ## Code 201 - Foundations of Software Development
 
-- [Class1 Notes](201-notes/class1.md)
+- [Class1 Notes](code-201/class1.md)
 
-- [Class2 Notes](201-notes/class2.md)
+- [Class2 Notes](code-201/class2.md)
 
-- [Class3 Notes](201-notes/class3.md)
+- [Class3 Notes](code-201/class3.md)
 
-- [Class4 Notes](201-notes/class4.md)
+- [Class4 Notes](code-201/class4.md)
 
-- [Class5 Notes](201-notes/class5.md)
+- [Class5 Notes](code-201/class5.md)
 
-- [Class6 Notes](201-notes/class6.md)
+- [Class6 Notes](code-201/class6.md)
 
-- [Class7 Notes](201-notes/class7.md)
+- [Class7 Notes](code-201/class7.md)
 
-- [Class8 Notes](201-notes/class8.md)
+- [Class8 Notes](code-201/class8.md)
 
-- [Class9 Notes](201-notes/class9.md)
+- [Class9 Notes](code-201/class9.md)
 
-- [Class10 Notes](201-notes/class10.md)
+- [Class10 Notes](code-201/class10.md)
 
-- [Class11 Notes](201-notes/class11.md)
+- [Class11 Notes](code-201/class11.md)
 
-- [Class12 Notes](201-notes/class12.md)
+- [Class12 Notes](code-201/class12.md)
 
-- [Class13 Notes](201-notes/class13.md)
+- [Class13 Notes](code-201/class13.md)
 
-- [Class14 Notes](201-notes/class14.md)
+- [Class14 Notes](code-201/class14.md)
 
-- [Class15 Notes](201-notes/class15.md)
+- [Class15 Notes](code-201/class15.md)
 
 ## Code 301 - Intermediate Software Development
 
