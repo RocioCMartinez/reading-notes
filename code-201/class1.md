@@ -94,3 +94,7 @@ JavaScript can be added by using the script tag. It is recommended to place in f
 - https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+
+## Things I want to know more about
+
+I would like to zero in a little into metadata. I find it useful to hear others interpretation of the topic.
