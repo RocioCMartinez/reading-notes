@@ -1,5 +1,7 @@
 # Class4 Notes
 
+This class reading helped cover how to insert hyperlinks into a document. How a webpage flows and what its natural behavior is. Content manipulation through the use of positioning. Also allowed us time to review and think about the benefits of pair programming.
+
 ## Hyperlink Questions
 
 1. To create a basic link, we wrap text or other content inside what element?
@@ -62,3 +64,8 @@ Two benefits to pair programming that could help me are **greater efficiency** a
 <https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions>
 
 <https://www.codefellows.org/blog/6-reasons-for-pair-programming/>
+
+
+## Things I want to know more about
+
+Understanding float better.
