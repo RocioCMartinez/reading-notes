@@ -55,7 +55,7 @@ This reading featured more details about HTML, CSS, and JavaScript. Helped defin
 - Strict equality === (Compares values and data types returns true/false aka Boolean)
 - Not, Does not equal !(Changes the return to the opposite outcome)
 
-3. There are many world problms that are being solved with functions. An example is using a calculator app to obtain a result. I could also be alerted when typing a password incorrectly. 
+3. There are many world problms that are being solved with functions. An example is using a calculator app to obtain a result. I could also be alerted when typing a password incorrectly.
 
 ## Conditionals-Questions
 

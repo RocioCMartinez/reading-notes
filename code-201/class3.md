@@ -1,6 +1,6 @@
 # Class3 Notes
 
-This reading is important because it helps explain boxes and arrays. When understanding boxes it is easier to manipulate the display of a website. Arrays are like super lists giving more qualities to the list items. Lists are a basic elements but one that is used often due to functionality. Unordered and ordered list have important individual properties and can exist in each other. Loops and conditions can help make a webpage more functional and can produce results much faster. 
+This reading is important because it helps explain boxes and arrays. When understanding boxes it is easier to manipulate the display of a website. Arrays are like super lists giving more qualities to the list items. Lists are a basic elements but one that is used often due to functionality. Unordered and ordered list have important individual properties and can exist in each other. Loops and conditions can help make a webpage more functional and can produce results much faster.
 
 ## List Questions
 
