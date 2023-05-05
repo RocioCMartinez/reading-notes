@@ -1,10 +1,12 @@
 # Class6 Notes
 
+Learning about objects and the importnce of the DOM.
+
 ***"An object is a collection of related data and/or functionality."***
 
 Data items in objects are considered the object's **properties**. Functions in an object are considered the object's **methods**.
 
-**DOM** stands for Document Object Model. A document on the web is comprised of objects that hold data representation of structure and content. 
+**DOM** stands for Document Object Model. A document on the web is comprised of objects that hold data representation of structure and content.
 
 ## JS Reading Questions
 
@@ -41,3 +43,7 @@ Data items in objects are considered the object's **properties**. Functions in a
 <http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming>
 
 <https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b>
+
+## Things I want to know more about
+
+I would need to discuss objects a bit better since they seem so versatile. Seems like I will enjoy them more than arrays.
