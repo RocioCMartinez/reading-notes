@@ -1,6 +1,6 @@
 # Class6 Notes
 
-Learning about objects and the importnce of the DOM.
+Learning about objects and the importance of the DOM.
 
 ***"An object is a collection of related data and/or functionality."***
 
@@ -19,10 +19,10 @@ Data items in objects are considered the object's **properties**. Functions in a
 ## Answers
 
 1. An object is like a balloon filled with water. The water is composed of molecules (variables&functions renamed to properties/methods when inside an object). The object (balloon) holds together all the related data (water or properties/methods).
-2. The advantage of object literals is that you are creating an object and writting out its content at the same time.
+2. The advantage of object literals is that you are creating an object and writing out its content at the same time.
 3. Objects are easier to work with than arrays, helps identify items by name where array is more idex location based.
 4. If you are using a variable as an object property name it cannot be accessed through dot notation but will work in brackets.
-5. this key word refers to current object. In the code this is referring to the object which would be ***dog***. When creating a variety of object literals you can use the same method definition for each object created, which would make code writting faster.
+5. this key word refers to current object. In the code this is referring to the object which would be ***dog***. When creating a variety of object literals you can use the same method definition for each object created, which would make code writing faster.
 
 ## DOM Questions
 
