@@ -56,6 +56,36 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 ## Code 301 - Intermediate Software Development
 
+- [Class1 Notes](code-301/class1.md)
+
+- [Class2 Notes](code-301/class2.md)
+
+- [Class3 Notes](code-301/class3.md)
+
+- [Class4 Notes](code-301/class4.md)
+
+- [Class5 Notes](code-301/class5.md)
+
+- [Class6 Notes](code-301/class6.md)
+
+- [Class7 Notes](code-301/class7.md)
+
+- [Class8 Notes](code-301/class8.md)
+
+- [Class9 Notes](code-301/class9.md)
+
+- [Class10 Notes](code-301/class10.md)
+
+- [Class11 Notes](code-301/class11.md)
+
+- [Class12 Notes](code-301/class12.md)
+
+- [Class13 Notes](code-301/class13.md)
+
+- [Class14 Notes](code-301/class14.md)
+
+- [Class15 Notes](code-301/class15.md)
+
 ## Code 401 - Advanced Software Development
 
 ### **Introduction**
