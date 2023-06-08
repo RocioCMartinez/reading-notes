@@ -10,9 +10,9 @@ In this reading we learn that React uses forms in more of a real time manner and
 
 ## Response
 
-1. A controlled component is a React component that renders an input form element AND controls its state. 
+1. A controlled component is a React component that renders an input form element AND controls its state.
 2. We should update the state  as the user types, becuse you can pass the value to other UI elements.
-3. Add a `name` value to each attribute then use `event.target.name` to let handler function run.
+3. Add a `name` attribute to each element then use `event.target.name` to let handler function run.
 
 ## The Conditional (Ternary) Operator
 
