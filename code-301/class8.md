@@ -41,4 +41,3 @@ This reading covers the codes common to HTTP verbs which are helpful to know the
 <https://regex101.com/>
 
 ## Things I want to know more about
-
