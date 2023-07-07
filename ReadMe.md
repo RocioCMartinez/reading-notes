@@ -87,7 +87,9 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 ## Code 401 - Advanced Software Development
 
--[GrowthMindset](code-401/GrowthMindset.md)
+- [GrowthMindset](code-401/GrowthMindset.md)
+
+- [The Terminal](code-401/TheTerminal.md)
 
 - [Class1 Notes](code-401/class1.md)
 
