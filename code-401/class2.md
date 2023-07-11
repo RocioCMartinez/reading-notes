@@ -1,5 +1,7 @@
 # Java Imports/Loops/Arrays
 
+In this reading we are trying to gather some more foundational knowledge on the use of import/packages, loops, and arrays. We see how to create a package and are introduced to a 'do-while' loop. We look at the structures of arrays and how they are build in Java.
+
 ## Java Imports
 
 1. Use an analogy to explain Built-In packages. Give examples.
@@ -54,3 +56,7 @@ Example:
 <https://www.baeldung.com/java-loops>
 
 <https://www.tutorialspoint.com/java/java_arrays.htm>
+
+## Things I want to know more about
+
+I would have to say that I will need more information on building and implementing a package.
