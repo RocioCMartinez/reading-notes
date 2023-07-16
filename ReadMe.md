@@ -101,7 +101,7 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 - [Class4 Notes](code-401/class4.md)
 
-- [Class5 Notes](Rcode-401/class5.md)
+- [Class5 Notes](code-401/class5.md)
 
 - [Class6 Notes](code-401/class6.md)
 
