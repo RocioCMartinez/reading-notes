@@ -1,6 +1,12 @@
 # Implementation: Linked Lists
 
-If I had to explain linked lists I would say it is like running a trail. You have a starting point and as you go down the trail you will get checkpoints (*nodes*) that give you information on the current location. You can run the trail the simples way which is linearly each checkpoint will give you *data* to your point and will reference the distance to the *"next node"*, I mean checkpoint. I feel like last node referencing null is still applicable as the runner hasn't made is out there. It is important to remember that a node or a checkpoint in my analogy only cares about its position and the next checkpoint, not order or start point, ensure *head* is at start point. The is basically where you chose to start the run.
+If I had to explain linked lists I would say it is like running a trail. You have a starting point and as you go down the trail you will get checkpoints (*nodes*) that give you information on the current location. You can run the trail the simples way which is linearly each checkpoint will give you *data* to your point and will reference the distance to the *"next node"*, I mean checkpoint. I feel like last node referencing null is still applicable as the runner hasn't made is out there. It is important to remember that a node or a checkpoint in my analogy only cares about its position and the next checkpoint, not order or start point, ensure *head* is at start point. The is basically where you chose to start the run. *curren* is of course the current checkpoint you are at.
+
+- Note *linked list* node only points to the next node in the list
+
+- Note *singly* means there is one reference (next)
+
+- Note *doubly* means there are two references (next and previous)
 
 Hope this helps
 
