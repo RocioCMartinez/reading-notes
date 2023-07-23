@@ -93,6 +93,8 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 - [Intro To SQL](code-401/IntroToSQL.md)
 
+- [Engineering Reading](code-401/EngineeringReading.md)
+
 - [Class1 Notes](code-401/class1.md)
 
 - [Class2 Notes](code-401/class2.md)
