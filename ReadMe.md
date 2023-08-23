@@ -143,15 +143,15 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 - [Class30 Notes](code-401/class30.md)
 
-- [Class30 Notes](code-401/class31.md)
+- [Class31 Notes](code-401/class31.md)
 
-- [Class30 Notes](code-401/class32.md)
+- [Class32 Notes](code-401/class32.md)
 
-- [Class30 Notes](code-401/class33.md)
+- [Class33 Notes](code-401/class33.md)
 
-- [Class30 Notes](code-401/class34.md)
+- [Class34 Notes](code-401/class34.md)
 
-- [Class30 Notes](code-401/class35.md)
+- [Class35 Notes](code-401/class35.md)
 
 ### **Introduction**
 
