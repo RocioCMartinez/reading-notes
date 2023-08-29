@@ -153,6 +153,16 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 - [Class35 Notes](code-401/class35.md)
 
+- [Class36 Notes](code-401/class36.md)
+
+- [Class37 Notes](code-401/class37.md)
+
+- [Class38 Notes](code-401/class38.md)
+
+- [Class39 Notes](code-401/class39.md)
+
+- [Class40 Notes](code-401/class40.md)
+
 ### **Introduction**
 
 My name is Rocio Martinez. I am a veteran and military spouse. My home state is New Mexico but currently reside in Georgia. My work experience is from restaurants and healthcare. I enjoy breaking into different career fields and learning about each one. My hobbies are focused on being healthy. I enjoy working out, dancing, and cooking.
