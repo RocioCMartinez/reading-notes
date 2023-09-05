@@ -97,6 +97,8 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 
 - [Data Structures and Algorithms](code-401/DataStructuresAndAlgorithms.md)
 
+- [Ethics](code-401/Ethics.md)
+
 - [Class1 Notes](code-401/class1.md)
 
 - [Class2 Notes](code-401/class2.md)
@@ -160,8 +162,6 @@ Reading Journal for Code Fellows. Collection of notes and resources of each clas
 - [Class38 Notes](code-401/class38.md)
 
 - [Class39 Notes](code-401/class39.md)
-
-- [Class40 Notes](code-401/class40.md)
 
 - [Class41 Notes](code-401/class41.md)
 
